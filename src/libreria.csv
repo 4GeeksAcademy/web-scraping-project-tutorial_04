@@ -1,0 +1,518 @@
+,Categoria,Título,Precio
+0,Travel,It's Only the Himalayas,45.17
+1,Travel,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43
+2,Travel,See America: A Celebration of Our National Parks & Treasured Sites,48.87
+3,Travel,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94
+4,Travel,Under the Tuscan Sun,37.33
+5,Travel,A Summer In Europe,44.34
+6,Travel,The Great Railway Bazaar,30.54
+7,Travel,A Year in Provence (Provence #1),56.88
+8,Travel,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21
+9,Travel,Neither Here nor There: Travels in Europe,38.95
+10,Travel,"1,000 Places to See Before You Die",26.08
+11,Mystery,Sharp Objects,47.82
+12,Mystery,"In a Dark, Dark Wood",19.63
+13,Mystery,The Past Never Ends,56.50
+14,Mystery,A Murder in Time,16.64
+15,Mystery,The Murder of Roger Ackroyd (Hercule Poirot #4),44.10
+16,Mystery,The Last Mile (Amos Decker #2),54.21
+17,Mystery,That Darkness (Gardiner and Renner #1),13.92
+18,Mystery,Tastes Like Fear (DI Marnie Rome #3),10.69
+19,Mystery,A Time of Torment (Charlie Parker #14),48.35
+20,Mystery,A Study in Scarlet (Sherlock Holmes #1),16.73
+21,Mystery,Poisonous (Max Revere Novels #3),26.80
+22,Mystery,Murder at the 42nd Street Library (Raymond Ambler #1),54.36
+23,Mystery,Most Wanted,35.28
+24,Mystery,Hide Away (Eve Duncan #20),11.84
+25,Mystery,Boar Island (Anna Pigeon #19),59.48
+26,Mystery,The Widow,27.26
+27,Mystery,Playing with Fire,13.71
+28,Mystery,What Happened on Beale Street (Secrets of the South Mysteries #2),25.37
+29,Mystery,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.30
+30,Mystery,Delivering the Truth (Quaker Midwife Mystery #1),20.89
+31,Historical Fiction,Tipping the Velvet,53.74
+32,Historical Fiction,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69
+33,Historical Fiction,A Flight of Arrows (The Pathfinders #2),55.53
+34,Historical Fiction,The House by the Lake,36.95
+35,Historical Fiction,Mrs. Houdini,30.25
+36,Historical Fiction,The Marriage of Opposites,28.08
+37,Historical Fiction,Glory over Everything: Beyond The Kitchen House,45.84
+38,Historical Fiction,"Love, Lies and Spies",20.55
+39,Historical Fiction,A Paris Apartment,39.01
+40,Historical Fiction,Lilac Girls,17.28
+41,Historical Fiction,The Constant Princess (The Tudor Court #1),16.62
+42,Historical Fiction,The Invention of Wings,37.34
+43,Historical Fiction,World Without End (The Pillars of the Earth #2),32.97
+44,Historical Fiction,The Passion of Dolssa,28.32
+45,Historical Fiction,Girl With a Pearl Earring,26.77
+46,Historical Fiction,Voyager (Outlander #3),21.07
+47,Historical Fiction,The Red Tent,35.66
+48,Historical Fiction,The Last Painting of Sara de Vos,55.55
+49,Historical Fiction,The Guernsey Literary and Potato Peel Pie Society,49.53
+50,Historical Fiction,Girl in the Blue Coat,46.83
+51,Sequential Art,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29
+52,Sequential Art,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28
+53,Sequential Art,This One Summer,19.49
+54,Sequential Art,The Nameless City (The Nameless City #1),38.16
+55,Sequential Art,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04
+56,Sequential Art,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.40
+57,Sequential Art,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61
+58,Sequential Art,"Pop Gun War, Volume 1: Gift",18.97
+59,Sequential Art,Patience,10.16
+60,Sequential Art,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44
+61,Sequential Art,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41
+62,Sequential Art,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91
+63,Sequential Art,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61
+64,Sequential Art,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92
+65,Sequential Art,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17
+66,Sequential Art,I am a Hero Omnibus Volume 1,54.63
+67,Sequential Art,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11
+68,Sequential Art,Danganronpa Volume 1,51.99
+69,Sequential Art,"Codename Baboushka, Volume 1: The Conclave of Death",36.72
+70,Sequential Art,Camp Midnight,17.08
+71,Classics,The Secret Garden,15.08
+72,Classics,The Metamorphosis,28.58
+73,Classics,The Pilgrim's Progress,50.26
+74,Classics,The Hound of the Baskervilles (Sherlock Holmes #5),14.82
+75,Classics,Little Women (Little Women #1),28.07
+76,Classics,Gone with the Wind,32.49
+77,Classics,Candide,58.63
+78,Classics,Animal Farm,57.22
+79,Classics,Wuthering Heights,17.73
+80,Classics,The Picture of Dorian Gray,29.70
+81,Classics,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78
+82,Classics,Beowulf,38.35
+83,Classics,And Then There Were None,35.01
+84,Classics,The Story of Hong Gildong,43.19
+85,Classics,The Little Prince,45.42
+86,Classics,Sense and Sensibility,37.46
+87,Classics,Of Mice and Men,47.11
+88,Classics,Emma,32.93
+89,Classics,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53
+90,Philosophy,Sophie's World,15.94
+91,Philosophy,The Death of Humanity: and the Case for Life,58.11
+92,Philosophy,The Stranger,17.44
+93,Philosophy,Proofs of God: Classical Arguments from Tertullian to Barth,54.21
+94,Philosophy,Kierkegaard: A Christian Missionary to Christians,47.13
+95,Philosophy,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93
+96,Philosophy,Critique of Pure Reason,20.75
+97,Philosophy,"Run, Spot, Run: The Ethics of Keeping Pets",20.02
+98,Philosophy,The Nicomachean Ethics,36.34
+99,Philosophy,Meditations,25.89
+100,Philosophy,Beyond Good and Evil,43.38
+101,Romance,Chase Me (Paris Nights #2),25.27
+102,Romance,Black Dust,34.53
+103,Romance,Her Backup Boyfriend (The Sorensen Family #1),33.97
+104,Romance,First and First (Five Boroughs #3),15.97
+105,Romance,Fifty Shades Darker (Fifty Shades #2),21.96
+106,Romance,The Wedding Dress,24.12
+107,Romance,Suddenly in Love (Lake Haven #1),55.99
+108,Romance,Something More Than This,16.24
+109,Romance,Doing It Over (Most Likely To #1),35.61
+110,Romance,The Wedding Pact (The O'Malleys #2),32.61
+111,Romance,Hold Your Breath (Search and Rescue #1),28.82
+112,Romance,Dirty (Dive Bar #1),40.83
+113,Romance,Take Me Home Tonight (Rock Star Romance #3),53.98
+114,Romance,Off the Hook (Fishing for Trouble #1),47.67
+115,Romance,A Gentleman's Position (Society of Gentlemen #3),14.75
+116,Romance,"Sit, Stay, Love",20.90
+117,Romance,A Girl's Guide to Moving On (New Beginnings #2),31.30
+118,Romance,The Perfect Play (Play by Play #1),59.99
+119,Romance,Dark Lover (Black Dagger Brotherhood #1),12.87
+120,Romance,Changing the Game (Play by Play #2),13.38
+121,Womens Fiction,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,57.36
+122,Womens Fiction,Will You Won't You Want Me?,13.86
+123,Womens Fiction,Keep Me Posted,20.46
+124,Womens Fiction,Grey (Fifty Shades #4),48.49
+125,Womens Fiction,Meternity,43.58
+126,Womens Fiction,Some Women,13.73
+127,Womens Fiction,Shopaholic Ties the Knot (Shopaholic #3),48.39
+128,Womens Fiction,Can You Keep a Secret?,21.94
+129,Womens Fiction,Twenties Girl,42.80
+130,Womens Fiction,The Undomestic Goddess,45.75
+131,Womens Fiction,The Nanny Diaries (Nanny #1),52.53
+132,Womens Fiction,The Devil Wears Prada (The Devil Wears Prada #1),44.29
+133,Womens Fiction,Something Borrowed (Darcy & Rachel #1),48.96
+134,Womens Fiction,Something Blue (Darcy & Rachel #2),54.62
+135,Womens Fiction,I've Got Your Number,19.69
+136,Womens Fiction,The Edge of Reason (Bridget Jones #2),19.18
+137,Womens Fiction,Bridget Jones's Diary (Bridget Jones #1),29.82
+138,Fiction,Soumission,50.10
+139,Fiction,Private Paris (Private #10),47.61
+140,Fiction,"We Love You, Charlie Freeman",50.27
+141,Fiction,Thirst,17.27
+142,Fiction,The Murder That Never Was (Forensic Instincts #5),54.11
+143,Fiction,Tuesday Nights in 1980,21.04
+144,Fiction,The Vacationers,42.15
+145,Fiction,The Regional Office Is Under Attack!,51.36
+146,Fiction,Finders Keepers (Bill Hodges Trilogy #2),53.53
+147,Fiction,The Time Keeper,27.88
+148,Fiction,The Testament of Mary,52.67
+149,Fiction,The First Hostage (J.B. Collins #2),25.85
+150,Fiction,Take Me with You,45.21
+151,Fiction,Still Life with Bread Crumbs,26.41
+152,Fiction,Shtum,55.84
+153,Fiction,My Name Is Lucy Barton,41.56
+154,Fiction,My Mrs. Brown,24.48
+155,Fiction,Mr. Mercedes (Bill Hodges Trilogy #1),28.90
+156,Fiction,I Am Pilgrim (Pilgrim #1),10.60
+157,Fiction,Eligible (The Austen Project #4),27.09
+158,Childrens,Birdsong: A Story in Pictures,54.64
+159,Childrens,The Bear and the Piano,36.89
+160,Childrens,The Secret of Dreadwillow Carse,56.13
+161,Childrens,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,58.08
+162,Childrens,Little Red,13.47
+163,Childrens,Walt Disney's Alice in Wonderland,12.96
+164,Childrens,Twenty Yawns,22.08
+165,Childrens,Rain Fish,23.57
+166,Childrens,Once Was a Time,18.28
+167,Childrens,Luis Paints the World,53.95
+168,Childrens,Nap-a-Roo,25.08
+169,Childrens,The Whale,35.96
+170,Childrens,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87
+171,Childrens,Raymie Nightingale,34.41
+172,Childrens,Playing from the Heart,32.38
+173,Childrens,Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54
+174,Childrens,The Wild Robot,56.07
+175,Childrens,The Thing About Jellyfish,48.77
+176,Childrens,The Lonely Ones,43.59
+177,Childrens,The Day the Crayons Came Home (Crayons),26.33
+178,Religion,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97
+179,Religion,You Are What You Love: The Spiritual Power of Habit,21.87
+180,Religion,God: The Most Unpleasant Character in All Fiction,30.03
+181,Religion,The Book of Mormon,24.57
+182,Religion,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62
+183,Religion,The Bhagavad Gita,57.49
+184,Religion,Choosing Our Religion: The Spiritual Lives of America's Nones,28.42
+185,Nonfiction,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.30
+186,Nonfiction,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05
+187,Nonfiction,Reasons to Stay Alive,26.41
+188,Nonfiction,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11
+189,Nonfiction,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18
+190,Nonfiction,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12
+191,Nonfiction,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77
+192,Nonfiction,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13
+193,Nonfiction,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06
+194,Nonfiction,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83
+195,Nonfiction,Reskilling America: Learning to Labor in the Twenty-First Century,19.83
+196,Nonfiction,In the Country We Love: My Family Divided,22.00
+197,Nonfiction,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35
+198,Nonfiction,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14
+199,Nonfiction,Algorithms to Live By: The Computer Science of Human Decisions,30.81
+200,Nonfiction,The Power of Now: A Guide to Spiritual Enlightenment,43.54
+201,Nonfiction,The Omnivore's Dilemma: A Natural History of Four Meals,38.21
+202,Nonfiction,The Genius of Birds,17.24
+203,Nonfiction,The Artist's Way: A Spiritual Path to Higher Creativity,38.49
+204,Nonfiction,So You've Been Publicly Shamed,12.23
+205,Music,Rip it Up and Start Again,35.02
+206,Music,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25
+207,Music,How Music Works,37.32
+208,Music,Love Is a Mix Tape (Music #1),18.03
+209,Music,Please Kill Me: The Uncensored Oral History of Punk,31.19
+210,Music,Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05
+211,Music,"Chronicles, Vol. 1",52.60
+212,Music,This Is Your Brain on Music: The Science of a Human Obsession,38.40
+213,Music,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36
+214,Music,No One Here Gets Out Alive,20.02
+215,Music,Life,31.58
+216,Music,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66
+217,Music,Forever Rockers (The Rocker #12),28.80
+218,Default,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93
+219,Default,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.60
+220,Default,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99
+221,Default,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.50
+222,Default,Aladdin and His Wonderful Lamp,53.13
+223,Default,Penny Maybe,33.29
+224,Default,Maude (1883-1993):She Grew Up with the country,18.02
+225,Default,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59
+226,Default,Soul Reader,39.58
+227,Default,Bossypants,49.46
+228,Default,A World of Flavor: Your Gluten Free Passport,42.95
+229,Default,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76
+230,Default,Tracing Numbers on a Train,41.60
+231,Default,Thirteen Reasons Why,52.72
+232,Default,The Secret (The Secret #1),27.37
+233,Default,The Psychopath Test: A Journey Through the Madness Industry,36.00
+234,Default,The Kite Runner,41.82
+235,Default,The Girl on the Train,55.02
+236,Default,The Emerald Mystery,23.15
+237,Default,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.00
+238,Science Fiction,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59
+239,Science Fiction,Join,35.67
+240,Science Fiction,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.30
+241,Science Fiction,The Project,10.65
+242,Science Fiction,Soft Apocalypse,26.12
+243,Science Fiction,Sleeping Giants (Themis Files #1),48.74
+244,Science Fiction,Arena,21.36
+245,Science Fiction,Foundation (Foundation (Publication Order) #1),32.42
+246,Science Fiction,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92
+247,Science Fiction,Ready Player One,19.07
+248,Science Fiction,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26
+249,Science Fiction,Dune (Dune #1),54.86
+250,Science Fiction,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48
+251,Science Fiction,Three Wishes (River of Time: California #1),44.18
+252,Science Fiction,The Last Girl (The Dominion Trilogy #1),36.26
+253,Science Fiction,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96
+254,Sports and Games,The Book of Basketball: The NBA According to The Sports Guy,44.84
+255,Sports and Games,"Friday Night Lights: A Town, a Team, and a Dream",51.22
+256,Sports and Games,Sugar Rush (Offensive Line #2),24.42
+257,Sports and Games,Settling the Score (The Summer Games #1),44.91
+258,Sports and Games,Icing (Aces Hockey #2),40.44
+259,Add a comment,The Torch Is Passed: A Harding Family Story,19.09
+260,Add a comment,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89
+261,Add a comment,The Art Forger,40.76
+262,Add a comment,On a Midnight Clear,14.07
+263,Add a comment,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.90
+264,Add a comment,"Shobu Samurai, Project Aryoku (#3)",29.06
+265,Add a comment,Modern Romance,28.26
+266,Add a comment,The White Queen (The Cousins' War #1),25.91
+267,Add a comment,The Song of Achilles,37.40
+268,Add a comment,The Immortal Life of Henrietta Lacks,40.67
+269,Add a comment,The Dovekeepers,48.78
+270,Add a comment,More Than Music (Chasing the Dream #1),37.61
+271,Add a comment,Code Name Verity (Code Name Verity #1),22.13
+272,Add a comment,Cell,20.29
+273,Add a comment,Angels Walking (Angels Walking #1),34.20
+274,Add a comment,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48
+275,Add a comment,A People's History of the United States,40.79
+276,Add a comment,A Brush of Wings (Angels Walking #3),55.51
+277,Add a comment,Rook,37.86
+278,Add a comment,The Midnight Watch: A Novel of the Titanic and the Californian,26.20
+279,Fantasy,Unicorn Tracks,18.78
+280,Fantasy,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02
+281,Fantasy,Princess Between Worlds (Wide-Awake Princess #5),13.34
+282,Fantasy,Masks and Shadows,56.40
+283,Fantasy,Crown of Midnight (Throne of Glass #2),43.29
+284,Fantasy,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09
+285,Fantasy,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37
+286,Fantasy,Throne of Glass (Throne of Glass #1),35.07
+287,Fantasy,The Glittering Court (The Glittering Court #1),44.28
+288,Fantasy,Hollow City (Miss Peregrine’s Peculiar Children #2),42.98
+289,Fantasy,The Star-Touched Queen,46.02
+290,Fantasy,The Hidden Oracle (The Trials of Apollo #1),52.26
+291,Fantasy,The Bane Chronicles (The Bane Chronicles #1-11),44.73
+292,Fantasy,Island of Dragons (Unwanteds #7),29.65
+293,Fantasy,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51
+294,Fantasy,City of Glass (The Mortal Instruments #3),56.02
+295,Fantasy,Searching for Meaning in Gailana,38.73
+296,Fantasy,The Star-Touched Queen,32.30
+297,Fantasy,A Shard of Ice (The Black Symphony Saga #1),56.63
+298,Fantasy,King's Folly (The Kinsman Chronicles #1),39.61
+299,New Adult,Without Borders (Wanderlove #1),45.07
+300,New Adult,The Mistake (Off-Campus #2),43.29
+301,New Adult,The Matchmaker's Playbook (Wingmen Inc. #1),55.85
+302,New Adult,The Hook Up (Game On #1),36.29
+303,New Adult,Shameless,58.35
+304,New Adult,Off Sides (Off #1),39.45
+305,Young Adult,The Requiem Red,22.65
+306,Young Adult,Set Me Free,17.46
+307,Young Adult,The Natural History of Us (The Fine Art of Pretending #2),45.22
+308,Young Adult,Obsidian (Lux #1),14.86
+309,Young Adult,Burning,28.81
+310,Young Adult,A Fierce and Subtle Poison,28.13
+311,Young Adult,Scarlett Epstein Hates It Here,43.55
+312,Young Adult,"Nightingale, Sing",38.28
+313,Young Adult,Library of Souls (Miss Peregrine’s Peculiar Children #3),48.56
+314,Young Adult,Frostbite (Vampire Academy #2),29.99
+315,Young Adult,Wild Swans,14.36
+316,Young Adult,Until Friday Night (The Field Party #1),46.31
+317,Young Adult,This Is Where It Ends,27.12
+318,Young Adult,The Darkest Lie,35.35
+319,Young Adult,My Kind of Crazy,40.36
+320,Young Adult,Don't Get Caught,55.35
+321,Young Adult,Catching Jordan (Hundred Oaks),50.83
+322,Young Adult,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14
+323,Young Adult,The Epidemic (The Program 0.6),14.44
+324,Young Adult,Stars Above (The Lunar Chronicles #4.5),48.05
+325,Science,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96
+326,Science,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36
+327,Science,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74
+328,Science,Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55
+329,Science,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91
+330,Science,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41
+331,Science,The Origin of Species,10.01
+332,Science,The Grand Design,13.76
+333,Science,Peak: Secrets from the New Science of Expertise,16.28
+334,Science,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03
+335,Science,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35
+336,Science,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83
+337,Science,Seven Brief Lessons on Physics,30.60
+338,Science,The Selfish Gene,29.45
+339,Poetry,A Light in the Attic,51.77
+340,Poetry,The Black Maria,52.15
+341,Poetry,Shakespeare's Sonnets,20.66
+342,Poetry,Olio,23.88
+343,Poetry,You can't bury them all: Poems,33.63
+344,Poetry,Slow States of Collapse: Poems,57.31
+345,Poetry,Untitled Collection: Sabbath Poems 2014,14.27
+346,Poetry,Poems That Make Grown Women Cry,14.19
+347,Poetry,Night Sky with Exit Wounds,41.05
+348,Poetry,salt.,46.78
+349,Poetry,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89
+350,Poetry,Out of Print: City Lights Spotlight No. 14,53.64
+351,Poetry,Les Fleurs du Mal,29.04
+352,Poetry,Howl and Other Poems,40.45
+353,Poetry,Leave This Song Behind: Teen Poetry at Its Best,51.17
+354,Poetry,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42
+355,Poetry,The Crossover,38.77
+356,Poetry,Booked,17.49
+357,Poetry,Twenty Love Poems and a Song of Despair,30.95
+358,Paranormal,"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.40
+359,Art,Wall and Piece,44.18
+360,Art,Feathers: Displays of Brilliant Plumage,49.05
+361,Art,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63
+362,Art,The New Drawing on the Right Side of the Brain,43.02
+363,Art,History of Beauty,10.29
+364,Art,The Story of Art,41.14
+365,Art,The Art Book,32.34
+366,Art,Ways of Seeing,39.51
+367,Psychology,The Lucifer Effect: Understanding How Good People Turn Evil,10.40
+368,Psychology,The Golden Condom: And Other Essays on Love Lost and Found,39.43
+369,Psychology,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27
+370,Psychology,An Unquiet Mind: A Memoir of Moods and Madness,21.30
+371,Psychology,"Thinking, Fast and Slow",21.14
+372,Psychology,Civilization and Its Discontents,59.95
+373,Psychology,8 Keys to Mental Health Through Exercise,31.04
+374,Autobiography,The Argonauts,10.93
+375,Autobiography,M Train,27.18
+376,Autobiography,Lab Girl,40.85
+377,Autobiography,Approval Junkie: Adventures in Caring Too Much,58.81
+378,Autobiography,Running with Scissors,12.91
+379,Autobiography,Me Talk Pretty One Day,57.60
+380,Autobiography,Lust & Wonder,11.87
+381,Autobiography,Life Without a Recipe,59.04
+382,Autobiography,A Heartbreaking Work of Staggering Genius,54.29
+383,Parenting,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35
+384,Adult Fiction,Fifty Shades Freed (Fifty Shades #3),15.36
+385,Humor,The Long Haul (Diary of a Wimpy Kid #9),44.07
+386,Humor,Old School (Diary of a Wimpy Kid #10),11.83
+387,Humor,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98
+388,Humor,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75
+389,Humor,Dress Your Family in Corduroy and Denim,43.68
+390,Humor,Toddlers Are A**holes: It's Not Your Fault,25.55
+391,Humor,When You Are Engulfed in Flames,30.89
+392,Humor,Naked,31.69
+393,Humor,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.50
+394,Humor,Holidays on Ice,51.07
+395,Horror,Security,39.25
+396,Horror,Follow You Home,21.36
+397,Horror,The Loney,23.40
+398,Horror,Pet Sematary,10.56
+399,Horror,Doctor Sleep (The Shining #2),40.12
+400,Horror,Psycho: Sanitarium (Psycho #1.5),36.97
+401,Horror,Can You Keep a Secret? (Fear Street Relaunch #4),48.64
+402,Horror,Red Dragon (Hannibal Lecter #1),23.37
+403,Horror,Dracula the Un-Dead,35.63
+404,Horror,Night Shift (Night Shift #1-20),12.75
+405,Horror,Needful Things,47.51
+406,Horror,Misery,34.79
+407,Horror,It,25.01
+408,Horror,'Salem's Lot,49.56
+409,Horror,The Stand,57.86
+410,Horror,The Girl with All the Gifts,49.47
+411,Horror,House of Leaves,54.89
+412,History,Sapiens: A Brief History of Humankind,54.23
+413,History,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52
+414,History,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73
+415,History,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28
+416,History,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64
+417,History,Zealot: The Life and Times of Jesus of Nazareth,24.70
+418,History,A Distant Mirror: The Calamitous 14th Century,14.58
+419,History,1491: New Revelations of the Americas Before Columbus,21.80
+420,History,Brilliant Beacons: A History of the American Lighthouse,11.45
+421,History,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48
+422,History,A Short History of Nearly Everything,52.40
+423,History,The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67
+424,History,Catherine the Great: Portrait of a Woman,58.55
+425,History,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91
+426,History,The Hiding Place,55.91
+427,History,America's War for the Greater Middle East: A Military History,51.22
+428,History,The Guns of August,14.54
+429,History,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.70
+430,Food and Drink,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52
+431,Food and Drink,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41
+432,Food and Drink,My Paris Kitchen: Recipes and Stories,33.37
+433,Food and Drink,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02
+434,Food and Drink,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11
+435,Food and Drink,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34
+436,Food and Drink,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.60
+437,Food and Drink,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25
+438,Food and Drink,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16
+439,Food and Drink,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77
+440,Food and Drink,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55
+441,Food and Drink,Barefoot Contessa Back to Basics,28.01
+442,Food and Drink,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62
+443,Food and Drink,My Kitchen Year: 136 Recipes That Saved My Life,11.53
+444,Food and Drink,Everyday Italian: 125 Simple and Delicious Recipes,20.10
+445,Food and Drink,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77
+446,Food and Drink,Cravings: Recipes for What You Want to Eat,20.50
+447,Food and Drink,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34
+448,Food and Drink,32 Yolks,53.63
+449,Food and Drink,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38
+450,Christian Fiction,Redeeming Love,20.47
+451,Christian Fiction,Close to You,49.46
+452,Christian Fiction,Shadows of the Past (Logan Point #1),39.67
+453,Christian Fiction,Like Never Before (Walker Family #2),28.77
+454,Christian Fiction,Counted With the Stars (Out from Egypt #1),17.97
+455,Christian Fiction,If I Run (If I Run #1),49.97
+456,Business,The Dirty Little Secrets of Getting Your Dream Job,33.34
+457,Business,The Third Wave: An Entrepreneur’s Vision of the Future,12.61
+458,Business,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55
+459,Business,Shoe Dog: A Memoir by the Creator of NIKE,23.99
+460,Business,Made to Stick: Why Some Ideas Survive and Others Die,38.85
+461,Business,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14
+462,Business,The Art of Startup Fundraising,21.00
+463,Business,Born for This: How to Find the Work You Were Meant to Do,21.59
+464,Business,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91
+465,Business,"Rich Dad, Poor Dad",51.74
+466,Business,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92
+467,Business,Rework,44.88
+468,Biography,Louisa: The Extraordinary Life of Mrs. Adams,16.85
+469,Biography,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15
+470,Biography,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55
+471,Biography,Benjamin Franklin: An American Life,48.19
+472,Biography,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57
+473,Thriller,In Her Wake,12.84
+474,Thriller,The Elephant Tree,23.82
+475,Thriller,Behind Closed Doors,52.22
+476,Thriller,You (You #1),43.61
+477,Thriller,The Guilty (Will Robie #4),13.82
+478,Thriller,The 14th Colony (Cotton Malone #11),39.24
+479,Thriller,Give It Back,18.32
+480,Thriller,Killing Floor (Jack Reacher #1),31.49
+481,Thriller,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71
+482,Thriller,Far From True (Promise Falls Trilogy #2),34.93
+483,Thriller,The Travelers,15.77
+484,Contemporary,When We Collided,31.77
+485,Contemporary,Someone Like You (The Harrisons #2),52.79
+486,Contemporary,We Are All Completely Beside Ourselves,24.04
+487,Spirituality,The Four Agreements: A Practical Guide to Personal Freedom,17.66
+488,Spirituality,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24
+489,Spirituality,Chasing Heaven: What Dying Taught Me About Living,37.80
+490,Spirituality,If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91
+491,Spirituality,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33
+492,Spirituality,A New Earth: Awakening to Your Life's Purpose,55.65
+493,Academic,Logan Kade (Fallen Crest High #5.5),13.12
+494,Self Help,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35
+495,Self Help,How to Be Miserable: 40 Strategies You Already Use,46.03
+496,Self Help,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15
+497,Self Help,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08
+498,Self Help,How to Stop Worrying and Start Living,46.49
+499,Historical,All the Light We Cannot See,29.87
+500,Historical,The Girl You Left Behind (The Girl You Left Behind #1),15.79
+501,Christian,(Un)Qualified: How God Uses Broken People to Do Big Things,54.00
+502,Christian,Crazy Love: Overwhelmed by a Relentless God,47.72
+503,Christian,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77
+504,Suspense,Silence in the Dark (Logan Point #4),58.33
+505,Short Stories,The Grownup,35.88
+506,Novels,Suzie Snowflake: One beautiful flake (a self-esteem story),54.81
+507,Health,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05
+508,Health,"Eat Fat, Get Thin",54.07
+509,Health,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71
+510,Health,The Art and Science of Low Carbohydrate Living,52.98
+511,Politics,Libertarianism for Beginners,51.33
+512,Politics,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65
+513,Politics,Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86
+514,Cultural,Amid the Chaos,36.58
+515,Erotica,Dark Notes,19.19
+516,Crime,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97
