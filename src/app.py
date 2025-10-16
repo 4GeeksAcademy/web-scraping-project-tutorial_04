@@ -55,6 +55,6 @@ for i in categoria:
         libreria.append({"Categoria":NOMBRE_CATEGORIA, "Título": titulo, "Precio": PRICE[1:]})
 
 #libreria
-
 df = pd.DataFrame(libreria)
+df.to_csv("libreria.csv")
 print(df)
