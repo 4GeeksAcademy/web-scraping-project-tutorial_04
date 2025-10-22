@@ -10,18 +10,18 @@ URL = "https://books.toscrape.com/"
 header = {'User-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
           ' AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36'}
 
-#Hacer la petición a la url indicada
+# Hacer la petición a la url indicada
 response = requests.get(URL, headers = header, timeout = 3)
 
-#comprobar la conexión de la petición 200 ok y 400, 500 bad
-#print(response.status_code)
+# comprobar la conexión de la petición 200 ok y 400, 500 bad
+# print(response.status_code)
 
-#imprimir la 500 primeras lineas para comprobar
-#print(response.text[:500])
-#crear el objeto `Beautifulsoup`
+# imprimir la 500 primeras lineas para comprobar
+# print(response.text[:500])
+# crear el objeto `Beautifulsoup`
 soup = BeautifulSoup(response.content, "html.parser")
 
-# Examinando el documento html encuentro dentro de un div, 
+# Examinando el documento html encuentro dentro de un div,
 # un único <ul class='nav nav-list'> con <ul> anidado`y dentro
 # una etiqueta <a>`que contiene las categorias que busco
 # usar .find() para encontrar una unica etiqueta <ul>, el bloque principal de las categorias
